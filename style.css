@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: auto;
+    width: auto;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+#titleBox {
+    text-align: center;
+    background-color: rgba(52, 14, 191, 0.618);
+}
+#inputs {
+    text-align: center;
+    margin-top: 20px;
+}
+.input {
+    margin-left: 20px;
+    padding: 3px 10px;
+    background: rgba(52, 14, 191, 0.618);
+    border-radius: 5px;
+}
+.titleHeading {
+    font-size: 3rem;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#container {
+    width: 500px;
+    height: 500px;
+    border: 2px solid;
+    margin: 20px auto;
+}
